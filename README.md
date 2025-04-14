@@ -1,4 +1,4 @@
-glycoPATH
+**glycoPATH**
 
 glycoPATH is a computational framework designed to analyze glycomics and RNA data, aiming to elucidate glycosylation pathways and their regulatory mechanisms. Developed using MATLAB, this repository encompasses data processing pipelines, modeling scripts, and validation tools tailored for integrative glycoscience research.
 
