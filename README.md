@@ -27,11 +27,7 @@ The raw glycomics data used in this study are available on the MassIVE data repo
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
 
 ## Contact
 
