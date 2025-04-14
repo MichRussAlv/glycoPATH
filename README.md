@@ -20,6 +20,11 @@ The framework allows researchers to:
 - Model glycosylation pathways and predict regulatory interactions.
 - Validate computational predictions with experimental datasets.
 
+## Raw data files
+The raw glycomics data used in this study are available on the MassIVE data repository:
+
+MassIVE Repository - MSV000092941
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
